@@ -1,0 +1,22 @@
+body{
+    background-image:linear-gradient(to right, rgb(203,220,234),rgb(234,232,203))
+}
+
+
+
+h1,h5{
+    text-align: center;
+
+}
+
+img{
+    display:block;
+    margin:auto;
+
+}
+
+.pic{
+    width:60%;
+    height:30%;
+    
+}
